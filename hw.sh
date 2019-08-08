@@ -1,1 +1,1 @@
-echo 'Ceci est un Hello World en bashphp'
+echo 'Ceci est un Hello World en bash'
